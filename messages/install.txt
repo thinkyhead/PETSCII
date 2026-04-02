@@ -1,0 +1,21 @@
+======================
+PETSCII Sublime Plugin
+======================
+
+Use this plugin in conjunction with the C64Tools plugin to edit Commodore BASIC the modern way! Requires Pet Me font from https://www.kreativekorp.com/software/fonts/c64/
+
+#### Insert Characters
+
+- Press Ctrl+Shift+C Ctrl+Shift+C to open popup panel with PETSCII Inverted Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+C Ctrl+Shift+1 to open popup panel with PETSCII Unshifted Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+C Ctrl+Shift+2 to open popup panel with PETSCII Shifted Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+C Ctrl+Shift+S to open popup panel with PETSCII Special Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+- Press Ctrl+Shift+C Ctrl+Shift+D to open popup panel with PETSCII Draw Characters. Click to insert characters. To close the panel press ESC or click outside the panel.
+
+#### Invert Selected Text
+
+- Press Ctrl+Shift+C Ctrl+Shift+I to invert the selected text, replacing all normal characters with inverted characters and vice-versa.
